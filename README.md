@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi Human, Other Homo-Sapiens Call Me <b>Chad McBride<b></h1>
+<h1 align="center">👋 Hi Human, You May Call Me <b>Chad McBride<b></h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Theoretically-Skeptic-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Working On-World Domination-important?style=for-the-badge" />
