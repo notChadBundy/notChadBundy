@@ -40,6 +40,7 @@
 - 📫 You can reach me using the following...
 <p align="left">
   <a href="www.linkedin.com/in/notchadbundy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href=mailto:"djt2xo47k@mozmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email%20Address-critical" alt="EmailAddress"></a>
   </p>
 
 <br/>
