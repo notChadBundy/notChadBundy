@@ -1,4 +1,4 @@
-<h1 align="center">👋 Good day, welcome to the GitHub Repository of <b>Chad McBride<b></h1>
+<h1 align="center">👋 Good Day, Welcome To The GitHub Repository Of <b>Chad McBride<b></h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Theoretically-Skeptic-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Working On-World Domination-important?style=for-the-badge" />
@@ -11,7 +11,7 @@
   <h2><p align="left">Welcome to my profile,</p>
     <p align="left">I am a passionate individual interested in everything related to computer networks<p></h2> 
   </p>
-  <img align="center" alt="how coding is done" src="https://github.com/notChadBundy/notChadBundy/blob/8202ce238c8035fd51f101eab50075296fbcf3ab/Goku.gif" />
+  <img align="center" alt="how coding is done" src="https://github.com/notChadBundy/notChadBundy/blob/5e13f1fc5752653cfb261fef0ab016c6c43923f1/Network-Gif.gif" /> 
 </p>
 
 <br/>
